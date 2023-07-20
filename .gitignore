@@ -1,0 +1,14 @@
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+.env
+*.sqlite3
+.DS_Store
+/node_modules/
+/env/
+/.idea
+/.vscode
+npm-debug.log
+yarn-error.log

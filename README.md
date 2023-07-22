@@ -75,4 +75,6 @@ urlpatterns = [
 For more details click [on me](https://drf-yasg.readthedocs.io/en/stable/readme.html#installationhttps://drf-yasg.readthedocs.io/en/stable/readme.html#installation)
 
 ## Step-9: Unit testing
-Go to tests.py in "dogapp" and implement the testing
+Go to tests.py in "dogapp" and implement the testing<br/>
+After implementing tests.py, test the project<br/>
+```python manage.py test```
